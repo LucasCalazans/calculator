@@ -1,29 +1,25 @@
 # calculator
 
-## Project setup
-```
-yarn install
-```
+The idea of this repository is to see the differences between the main JavaScript library. 
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+Each library will have a specific branch, not that the master branch has nothing than this README.md.
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+## Projects
 
-### Run your tests
-```
-yarn run test
-```
+### React
 
-### Lints and fixes files
-```
-yarn run lint
-```
+- [Go to branch](https://github.com/LucasCalazans/calculator/tree/react)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### Technologies
+
+- React
+- Webpack
+- Babel
+
+### Vue
+
+- [Go to branch](https://github.com/LucasCalazans/calculator/tree/vue)
+
+#### Technologies
+
+- vue-cli (v3.5.0)
